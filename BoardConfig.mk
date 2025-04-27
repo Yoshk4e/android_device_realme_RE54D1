@@ -7,9 +7,6 @@
 
 DEVICE_PATH := device/realme/RE54D1
 
-# For building with minimal manifest
-ALLOW_MISSING_DEPENDENCIES := true
-
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
@@ -87,14 +84,6 @@ VENDOR_SECURITY_PATCH := 2022-7-05
 PLATFORM_VERSION := 11.0.0
 
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
-
-# TWRP Configuration
-TW_THEME := portrait_hdpi
-TW_EXTRA_LANGUAGES := true
-TW_SCREEN_BLANK_ON_BOOT := true
-TW_INPUT_BLACKLIST := "hbtp_vm"
-TW_USE_TOOLBOX := true
-TW_INCLUDE_REPACKTOOLS := true
 
 #Modules 
 TARGET_RECOVERY_DEVICE_MODULES += \
