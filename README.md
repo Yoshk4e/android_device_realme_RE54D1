@@ -1,5 +1,5 @@
-### TWRP device tree for Realme C25Y (RE54D1)
-## BIG THANKS FOR GitFASTBOOT ( Realme C21Y PBRP Recovery Maintainer )
+## TWRP device tree for Realme C25Y (RE54D1)
+### BIG THANKS FOR GitFASTBOOT ( Realme C21Y PBRP Recovery Maintainer )
 =========================================
 
 The Realme C25Y (codenamed _RE54D1_) is a mid-range smartphone from Realme.
