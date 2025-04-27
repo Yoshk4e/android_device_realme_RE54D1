@@ -7,4 +7,5 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
+# Build Number: RMX3265_ctcc-user-11-RP1A.201005.001-33200-release-keys
 ```
